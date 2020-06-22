@@ -2,19 +2,12 @@
 templateKey: index-page
 title: 健康な毎日は野菜から
 image: /img/istockphoto-527229644-612x612.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 健康な毎日は野菜から
+subheading: 毎日の繰り返しから健康な食生活を
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: なぜ野菜か
+  description: 厚生労働省の指針では毎日350グラムの野菜を摂取するように記されています。しかしその野菜は本当に体に良いものでしょうか。毎日の習慣が今のからだを作っています。
+description: 無農薬の野菜を摂取する方法は簡単です。自分で育てることです。
 intro:
   blurbs:
     - image: /img/coffee.png
